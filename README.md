@@ -67,7 +67,7 @@ filter_ipo['100D Y/N'] = returns_bin
 ![Logistic Regression](pics/logistic_regression.png) 
 
 ## Confusion Matrcices for Models
-# Adaboost             Logistic Regression        XG Boost      
+# Adaboost         |          Logistic Regression          |        XG Boost      
 <img src="pics/confusions.png" alt="drawing" width="1024"/>
 
   
