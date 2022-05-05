@@ -50,7 +50,7 @@ filter_ipo['100D Y/N'] = returns_bin
   
 
 # Application Examples / Summary Analysis
-It appears that XG Boost and Ada boost have the highest accuracy score
+It appears that XG Boost, Ada boost and random forest have the highest accuracy score
 and the offer price, market cap, and 1st day close are the top 3 feature importance 
 
 ![features](pics/features.png)
