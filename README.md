@@ -68,6 +68,6 @@ Logistic Regression
 
 ## Confusion Matrcices for Models
 Adaboost             Logistic Regression        XG Boost      
-
-![Adaboost , Logistic Regression, XG Boost](<img src="pics/confusions.png" alt="drawing" width="200"/>)
+<img src="pics/confusions.png" alt="drawing" width="200"/>
+![Adaboost , Logistic Regression, XG Boost]()
   
