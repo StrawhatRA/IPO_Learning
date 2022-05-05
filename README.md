@@ -50,9 +50,28 @@ filter_ipo['100D Y/N'] = returns_bin
   
 
 # Application Examples / Summary Analysis
+It appears that XG Boost and Ada boost have the highest accuracy score
+and the offer price, market cap, and 1st day close are the top 3 feature importance 
 
-# Screenshots / Sample Code
+![features](pics/features.png)
 
 
+# Screenshots
+
+## Heatmaps for models
+# Adaboost
+![Adaboost](pics/adaboost.png) 
+
+
+# XGBoost
+![XGBoost](pics/xgboost.png) 
+
+
+# Logistic Regression
+![Logistic Regression](pics/logistic_regression.png) 
+
+## Confusion Matrcices for Models
+# Adaboost-----|-----Logistic Regression-----|----XG Boost      
+<img src="pics/confusions.png" alt="drawing" width="1024"/>
 
   
