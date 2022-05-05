@@ -75,7 +75,7 @@ and the offer price, market cap, and 1st day close are the top 3 feature importa
 
 ## Confusion Matrcices for Models
 # Adaboost-----|-----Logistic Regression-----|----XG Boost      
-<img src="pics/confusions.png" alt="drawing" width="480"/>
+<img src="pics/confusions.png" alt="drawing" width="1024"/>
 # Random Forest
-<img src="pics/confusion_random_forest.png" alt="drawing" width="1024"/>
+<img src="pics/confusion_random_forest.png" alt="drawing" width="480"/>
   
