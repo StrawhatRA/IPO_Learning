@@ -57,6 +57,8 @@ and the offer price, market cap, and 1st day close are the top 3 feature importa
 
 
 # Screenshots
+# Decision Tree
+![decision_tree](pics/trees.png)
 
 ## Heatmaps for models
 # Adaboost
