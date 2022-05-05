@@ -51,8 +51,15 @@ filter_ipo['100D Y/N'] = returns_bin
 
 # Application Examples / Summary Analysis
 
-# Screenshots / Sample Code
 
+# Screenshots
 
+## Heatmaps for models
+![Adaboost](pics/adaboost.png .png)
+![XGBoost/xgboost.png)
+![Logistic Regression](pics/logistic_regression.png)
 
+## Confusion Matrcices for Models
+
+![Adaboost , Logistic Regression, XG Boost](pics/confusions.png)
   
