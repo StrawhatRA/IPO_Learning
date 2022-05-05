@@ -10,6 +10,20 @@ Authors: Amandeep Kaur, Nitin Thomas, Prabhdyal Singh, Rabih Raymond Antoun, Mat
  Get IPO data manually from up to 2018 from iposcoop.com with internet wayback machine, and then using yahoo finance to merge 
  the SPY index with this using features 10 , 84 days before the IPO, and 100 days after.
  
+ For adding additional and extra features, the YF data scraper notebook gets financial statements, balance sheets, and cash flows
+ All together 79 features are used for the machine learning models. Nulls were dropped and then fitted.
+ ## 
+
+```
+parser = pd.io.parsers.ParserBase({'usecols': None})
+
+for df in dfs:
+     df.columns = parser._maybe_dedup_names(df.columns)
+df = pd.concat(dfs, ignore_index=False)
+df = df.set_index(['Ticker','Date'])
+```
+
+
 # Detailed Usage / Installation
   Main file code is inside a Jupyter Notebook with deep learning libraries imported. Seperate dataframes using dates 10 days before,
   84 days before, and 100 days after an offer date is used to merge with a yahoo finance spy index and then having returns calculated.
