@@ -70,8 +70,12 @@ and the offer price, market cap, and 1st day close are the top 3 feature importa
 # Logistic Regression
 ![Logistic Regression](pics/logistic_regression.png) 
 
+# Random Forest
+<img src="pics/random_forest.png" alt="drawing" width="600"/>
+
 ## Confusion Matrcices for Models
 # Adaboost-----|-----Logistic Regression-----|----XG Boost      
 <img src="pics/confusions.png" alt="drawing" width="1024"/>
-
+# Random Forest
+<img src="pics/confusion_random_forest.png" alt="drawing" width="480"/>
   
