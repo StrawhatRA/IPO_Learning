@@ -55,9 +55,16 @@ filter_ipo['100D Y/N'] = returns_bin
 # Screenshots
 
 ## Heatmaps for models
-![Adaboost](pics/adaboost.png) Adaboost
-![XGBoost/pics/xgboost.png) XGBoost
-![Logistic Regression](pics/logistic_regression.png) Logistic Regression
+Adaboost
+![Adaboost](pics/adaboost.png) 
+
+
+XGBoost
+![XGBoost](pics/xgboost.png) 
+
+
+Logistic Regression
+![Logistic Regression](pics/logistic_regression.png) 
 
 ## Confusion Matrcices for Models
 
