@@ -1,5 +1,6 @@
 # Machine Learning vs Initial Public Offerings
 Authors: Amandeep Kaur, Nitin Thomas, Prabhdyal Singh, Rabih Raymond Antoun, Matthew Phan
+![1488-machine-learning-techniques](https://user-images.githubusercontent.com/93293695/184886589-b6ac528f-0722-4443-b651-6a4df110c124.png)
 
 # Project Overview
  Machine Learning libraries with ensemble methods(adaboost), gradient boosting(xgboost), decision trees(random forest generator)
